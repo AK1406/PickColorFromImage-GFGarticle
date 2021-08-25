@@ -1,5 +1,5 @@
 # PickColorFromImage-GFGarticle
-
+<h3><a href="https://www.geeksforgeeks.org/pick-color-from-image-with-touchevents-in-android/">See the detail explanation</a></h3>
 <hr>
 <br>
 Output:
